@@ -1,0 +1,82 @@
+{
+  "games": {
+    "8b5c60a9-3333-46c8-b7fb-c006fc0f3040": {
+      "gameId": "8b5c60a9-3333-46c8-b7fb-c006fc0f3040",
+      "playersToRoadMap": {},
+      "leaderboard": {
+        "userByPoints": {}
+      },
+      "questionMap": {
+        "8caeba30-5ecb-4293-ab9f-a56e460c10b1": {
+          "questionId": "8caeba30-5ecb-4293-ab9f-a56e460c10b1",
+          "question": "The strawberry red",
+          "answersToPoints": {
+            "ef2d0294-42f6-42b7-a2d6-4287ca54cd3e": {
+              "Answer(answerId=ef2d0294-42f6-42b7-a2d6-4287ca54cd3e, answer=don't know)": 0
+            },
+            "b3a864be-2563-4450-baa2-4a7b5ce019d4": {
+              "Answer(answerId=b3a864be-2563-4450-baa2-4a7b5ce019d4, answer=yes)": 44
+            },
+            "af5d1384-aa1c-4110-beee-0f020983d587": {
+              "Answer(answerId=af5d1384-aa1c-4110-beee-0f020983d587, answer=no)": 0
+            }
+          }
+        },
+        "1b8884bb-755e-439d-a564-047b0bc21d75": {
+          "questionId": "1b8884bb-755e-439d-a564-047b0bc21d75",
+          "question": "Samsung has android os",
+          "answersToPoints": {
+            "269e8815-89fb-4db1-8b20-da223c0dc3b6": {
+              "Answer(answerId=269e8815-89fb-4db1-8b20-da223c0dc3b6, answer=no)": 0
+            },
+            "c8b650df-bb5e-4b56-a9a8-4c2ab0a81e8d": {
+              "Answer(answerId=c8b650df-bb5e-4b56-a9a8-4c2ab0a81e8d, answer=yes)": 100
+            },
+            "ac6c70ae-068a-46f3-ac00-82fc75495e82": {
+              "Answer(answerId=ac6c70ae-068a-46f3-ac00-82fc75495e82, answer=don't know)": 0
+            }
+          }
+        }
+      }
+    },
+    "3d66548a-4f29-4621-854f-f361babe2250": {
+      "gameId": "3d66548a-4f29-4621-854f-f361babe2250",
+      "playersToRoadMap": {},
+      "leaderboard": {
+        "userByPoints": {}
+      },
+      "questionMap": {
+        "6cfe225c-1604-4741-86b6-da5f5d217aa8": {
+          "questionId": "6cfe225c-1604-4741-86b6-da5f5d217aa8",
+          "question": "Samsung has android os",
+          "answersToPoints": {
+            "c0f3578e-b10f-466d-ad20-c94cdf89da9d": {
+              "Answer(answerId=c0f3578e-b10f-466d-ad20-c94cdf89da9d, answer=don't know)": 0
+            },
+            "f3622608-263d-421e-a965-a6740b6ec715": {
+              "Answer(answerId=f3622608-263d-421e-a965-a6740b6ec715, answer=no)": 0
+            },
+            "641b35f1-ced2-438d-8ba0-b4083922fbe0": {
+              "Answer(answerId=641b35f1-ced2-438d-8ba0-b4083922fbe0, answer=yes)": 100
+            }
+          }
+        },
+        "aaf0f60e-2c2e-4298-91e8-8325b38cd524": {
+          "questionId": "aaf0f60e-2c2e-4298-91e8-8325b38cd524",
+          "question": "Redhat is?",
+          "answersToPoints": {
+            "622c59f8-dd47-4d93-952d-db3c0a575646": {
+              "Answer(answerId=622c59f8-dd47-4d93-952d-db3c0a575646, answer=Windows os)": 0
+            },
+            "a997859e-21c1-4a52-9404-5bc290d5e2ea": {
+              "Answer(answerId=a997859e-21c1-4a52-9404-5bc290d5e2ea, answer=Linux os)": 100
+            },
+            "b0256c12-fb42-4dc0-9f82-1a1c90cf084b": {
+              "Answer(answerId=b0256c12-fb42-4dc0-9f82-1a1c90cf084b, answer=don't know)": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}
